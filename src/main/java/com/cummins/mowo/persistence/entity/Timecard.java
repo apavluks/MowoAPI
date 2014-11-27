@@ -3,7 +3,7 @@ package com.cummins.mowo.persistence.entity;
 /**
  * Reprensent the entity company stored in the database.
  * @author Aivars Pavluks
- *
+ * test
  */
 public class Timecard {
 	
